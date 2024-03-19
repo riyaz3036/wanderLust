@@ -1,0 +1,38 @@
+.toggle__main{
+    margin-left: 10rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.toggle__main h5{
+    font-size: 2rem;
+}
+
+.toggle__main label{
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.toggle__main button{
+    font-size: 1.2rem;
+    margin-top: 0.8rem;
+}
+.toggle__sub{
+    margin-left: 0.8rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.toggle__sub h5{
+    font-size: 2rem;
+}
+
+.toggle__sub label{
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.toggle__sub button{
+    font-size: 1.2rem;
+    margin-top: 0.8rem;
+}
